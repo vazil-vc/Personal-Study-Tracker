@@ -3,6 +3,10 @@
 A Personal Study Tracker built using Python and Streamlit. This application helps users manage their study subjects and record daily study sessions.
 
 ---
+## 🚀 Live Demo
+
+👉 [Open Personal Study Tracker](https://personal-study-tracker-ffduqzduahfnqqhybtpzzf.streamlit.app/)
+
 
 ## 🚀 Features
 
